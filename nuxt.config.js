@@ -23,7 +23,7 @@ export default {
     script: ["https://maps.googleapis.com/maps/api/js?key=AIzaSyBSSoRttYvXYkzCQtKpzVhO4ibD8lWmHWY"]
   },
   server: {
-    port: '3333'
+    port: '80'
   },
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [

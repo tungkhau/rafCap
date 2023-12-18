@@ -2,8 +2,6 @@ version: '3.3'
 services:
   web:
     build: .
-    container_name: rafcap
-    restart: unless-stopped
+    restart: always
     ports:
-      - "80:3333"
-    platform: "linux/amd64"
+      - "80:3000"

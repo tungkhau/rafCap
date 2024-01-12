@@ -1,3 +1,12 @@
 .git
 .gitignore
 node_modules/
+
+**/node_modules/
+**/dist
+**/nuxt
+npm-debug.log
+.coverage
+.coverage.*
+.env
+.aws

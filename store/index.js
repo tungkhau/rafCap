@@ -3,10 +3,10 @@ export const state = () => {
     prex: '+852',
     tel: '2330 5188',
     email: 'rafter@racapm.com',
-    address: {
-      zh: `香港上環德輔道中322號 <br/>西區電訊大廈15樓1522室`,
-      cn: `香港上环德辅道中322号 <br/>西区电讯大厦15楼1522室`,
-      en: `Room 1522, Level 15, West Exchange Tower, <br/>322 Des Voeux Road Central, Sheung Wan, Hong Kong`
+    address:{
+      zh:"香港上環德輔道中199號 <br/>無限極廣場35樓3527室",
+      cn:"香港上环德辅道中199号 <br/>无限极广场35楼3527室",
+      en:"Room 3527, Level 35, Infinitus Plaza, <br/>199 Des Voeux Rd Central, Sheung Wan, Hong Kong"
     },
     googleMap: 'https://goo.gl/maps/1vCGBFL2NwV7x17v6',
     expires: 3600000,
